@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Group 7 Activity 3 - CSS145-BM4")
 
-st.subheader("Group Members:") 
+st.subheader("Group Members: Drilon, Rafael") 
 
 import pandas as pd
 import numpy as np

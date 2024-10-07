@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-df = pd.read_csv('/content/Electronic_sales_Sep2023-Sep2024.csv')
+df = pd.read_csv('Electronic_sales_Sep2023-Sep2024.csv')
 df
 
 
